@@ -1,24 +1,5 @@
 {
   "chat": [
-    {
-      "user": "hello there",
-      "bot": "hi how are you",
-      "id": "5b95"
-    },
-    {
-      "id": "438f621d-11e8-485b-b8e8-1855b88f436f",
-      "user": "who is the vice chancellor",
-      "bot": " The Vice Chancellor of Godfrey Okoye University is currently Professor Christian N. Anieke.</s>"
-    },
-    {
-      "id": "f54587ab-159f-4b36-94e3-732f9fdcbd8a",
-      "user": "is the school accreditated",
-      "bot": " Yes, Godfrey Okoye University is fully accredited by the National Universities Commission (NUC) and the Legal Council of Education for its law faculty.</s>"
-    },
-    {
-      "id": "4d209766-8387-47ca-936b-135948562c6e",
-      "user": "tell me a brief history of godfrey okoye university",
-      "bot": " Godfrey Okoye University (GO Uni) was established in 2009 by the Catholic Diocese of Enugu, with the name \"Bishop Okoye Ecumenical University\" (BOEcU), later changed to GO University. The idea was conceived by Bishop A.O. Gbuji and brought to life by Fr. Prof. Christian Anieke. All programs have NUC accreditation, and the law faculty is approved by the Legal Council of Education. GO University offers undergraduate and postgraduate programs in various faculties.</s>"
-    }
+    
   ]
 }
